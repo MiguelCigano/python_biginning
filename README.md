@@ -1,2 +1,2 @@
 # python_telecom
-# Este repositorio es para los chicos de telecomunicaciones
+### Repositorio es para los chicos de telecomunicaciones
